@@ -26,6 +26,10 @@ jobs:
           aws-secret-access-key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
           aws-region: eu-central-1
 
+      - name: Install packwiz
+        id: packwiz
+        uses: actionhippie/install-packwiz@v1
+
       - name: Build package
         id: package
         run: make build
