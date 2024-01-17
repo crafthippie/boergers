@@ -1,0 +1,13 @@
+name = "boergers"
+author = "Thomas Boerger"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "9ca6f7726fc5ce313cf4c85d14074859a3cf72b746693e2beb396267b7769147"
+
+[versions]
+minecraft = "1.20.1"
+neoforge = "47.1.84"

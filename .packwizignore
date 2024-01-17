@@ -1,0 +1,15 @@
+deploy/
+docker/
+docs/
+overlay/
+
+*.jar
+
+packwiz.json
+Makefile
+README.md
+LICENSE
+
+.dockerignore
+.envrc
+.github

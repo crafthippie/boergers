@@ -1,0 +1,13 @@
+name = "Advanced Mining Dimension"
+filename = "mining-dimension-forge-1.20.1-1.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/XRETyQl3/versions/SfCtwxcf/mining-dimension-forge-1.20.1-1.1.0.jar"
+hash-format = "sha1"
+hash = "04b19427a881bbeff1967ed95050f98021a74461"
+
+[update]
+[update.modrinth]
+mod-id = "XRETyQl3"
+version = "SfCtwxcf"

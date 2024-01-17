@@ -1,0 +1,16 @@
+FROM ghcr.io/dockhippie/minecraft-forge:47.1-arm64
+
+EXPOSE 25565 25575 8123
+
+ENV DYNMAP_JAR Dynmap-3.7-beta-4-forge-1.20.jar
+ENV DYNMAP_URL https://mediafilez.forgecdn.net/files/4979/24/${DYNMAP_JAR}
+
+RUN apt-get update && \
+    apt-get upgrade -y && \
+    apt-get clean && \
+    rm -rf /var/lib/apt/lists/* && \
+    curl --create-dirs -sLo /usr/share/minecraft/mods/${DYNMAP_JAR} ${DYNMAP_URL}
+
+ENV MINECRAFT_LEVEL_TYPE DEFAULT
+
+COPY ./mods/* /usr/share/minecraft/mods
