@@ -4,6 +4,7 @@ docs/
 overlay/
 
 *.jar
+*.sha256
 
 packwiz.json
 Makefile
@@ -13,3 +14,4 @@ LICENSE
 .dockerignore
 .envrc
 .github
+.releaserc
