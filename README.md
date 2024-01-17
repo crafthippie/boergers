@@ -12,7 +12,7 @@ be found on https://crafthippie.github.io/boergers.
 
 To see the available Docker image versions it's best to look at
 https://hub.docker.com/r/crafthippie/boergers/tags while you can see the
-available files for the client at https://dl.webhippie.de/minecraft/boergers.
+available files for the client at https://dl.webhippie.de/#minecraft/boergers/.
 
 ## Volumes
 
