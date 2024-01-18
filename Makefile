@@ -56,9 +56,13 @@ endif
 $(DIST)/$(NAME)-$(OUTPUT).mrpack.sha256: $(DIST)
 	cd $(DIST) && $(SHASUM) $(NAME)-$(OUTPUT).mrpack >| $(NAME)-$(OUTPUT).mrpack.sha256
 
-.PHONY: fetch
-fetch: packwiz-installer-bootstrap.jar
-	java -jar packwiz-installer-bootstrap.jar --no-gui pack.toml
+.PHONY: client
+client: packwiz-installer-bootstrap.jar
+	java -jar packwiz-installer-bootstrap.jar --no-gui pack.toml --side client
+
+.PHONY: server
+server: packwiz-installer-bootstrap.jar
+	java -jar packwiz-installer-bootstrap.jar --no-gui pack.toml --side server
 
 packwiz-installer-bootstrap.jar:
 	curl -sSLo packwiz-installer-bootstrap.jar $(BOOTSTRAP_URL)

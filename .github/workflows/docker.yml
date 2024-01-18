@@ -38,7 +38,7 @@ jobs:
 
       - name: Download mods
         id: packwiz
-        run: make fetch
+        run: make server
 
       - name: Docker meta
         id: meta
