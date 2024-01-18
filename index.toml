@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/chunkloaders-common.toml"
+hash = "8922b65d3c98bd37d3b0f52c59d3129d85bf505ec69cf02085defba2be1b0d21"
+
+[[files]]
 file = "mods/advanced-mining-dimension.pw.toml"
 hash = "d4b7dccef2a7471bf9a52424c6e7c81305b4c81454c113750a12e9acc5805cf1"
 metafile = true

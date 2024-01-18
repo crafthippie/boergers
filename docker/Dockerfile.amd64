@@ -1,4 +1,4 @@
-FROM ghcr.io/dockhippie/minecraft-forge:47.1-amd64
+FROM ghcr.io/dockhippie/minecraft-forge:47.2-amd64
 
 EXPOSE 25565 25575 8123
 
