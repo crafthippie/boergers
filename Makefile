@@ -45,7 +45,9 @@ $(NAME)-$(OUTPUT).mrpack:
 	$(SED) -i 's|version = ".*"|version = "$(VERSION)"|' pack.toml
 	packwiz modrinth export
 	git checkout pack.toml
+ifeq ($(OUTPUT), testing)
 	mv $(NAME)-$(VERSION).mrpack $(NAME)-$(OUTPUT).mrpack
+endif
 
 $(NAME)-$(OUTPUT).mrpack.sha256:
 	$(SHASUM) $(NAME)-$(OUTPUT).mrpack >| $(NAME)-$(OUTPUT).mrpack.sha256
