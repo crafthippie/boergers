@@ -1,5 +1,6 @@
 SHELL := bash
 NAME := boergers
+DIST := dist
 
 UNAME := $(shell uname -s)
 
@@ -30,27 +31,30 @@ ifndef VERSION
 	endif
 endif
 
+$(DIST):
+	mkdir -p $(DIST)
+
 .PHONY: clean
 clean:
-	rm -f $(NAME)-*.mrpack $(NAME)-*.mrpack.sha256
+	rm -rf $(DIST)
 
 .PHONY: docs
 docs:
 	cd docs; hugo
 
 .PHONY: build
-build: $(NAME)-$(OUTPUT).mrpack $(NAME)-$(OUTPUT).mrpack.sha256
+build: $(DIST)/$(NAME)-$(OUTPUT).mrpack $(DIST)/$(NAME)-$(OUTPUT).mrpack.sha256
 
-$(NAME)-$(OUTPUT).mrpack:
+$(DIST)/$(NAME)-$(OUTPUT).mrpack: $(DIST)
 	$(SED) -i 's|version = ".*"|version = "$(VERSION)"|' pack.toml
-	packwiz modrinth export
-	git checkout pack.toml
+	cd $(DIST) && packwiz modrinth export --meta-folder-base $(CURDIR)/ --pack-file $(CURDIR)/pack.toml --yes
+	git checkout $(CURDIR)/pack.toml
 ifeq ($(OUTPUT), testing)
-	mv $(NAME)-$(VERSION).mrpack $(NAME)-$(OUTPUT).mrpack
+	mv $(DIST)/$(NAME)-$(VERSION).mrpack $(DIST)/$(NAME)-$(OUTPUT).mrpack
 endif
 
-$(NAME)-$(OUTPUT).mrpack.sha256:
-	$(SHASUM) $(NAME)-$(OUTPUT).mrpack >| $(NAME)-$(OUTPUT).mrpack.sha256
+$(DIST)/$(NAME)-$(OUTPUT).mrpack.sha256: $(DIST)
+	cd $(DIST) && $(SHASUM) $(NAME)-$(OUTPUT).mrpack >| $(NAME)-$(OUTPUT).mrpack.sha256
 
 .PHONY: fetch
 fetch: packwiz-installer-bootstrap.jar

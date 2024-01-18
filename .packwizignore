@@ -2,9 +2,9 @@ deploy/
 docker/
 docs/
 overlay/
+dist/
 
 *.jar
-*.sha256
 
 packwiz.json
 Makefile

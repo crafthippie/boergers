@@ -2,7 +2,3 @@ dist/
 docs/public/
 
 *.jar
-
-*.zip
-*.mrpack
-*.sha256
