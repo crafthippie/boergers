@@ -1,5 +1,17 @@
 # Changelog
 
+## [1.1.0](https://github.com/crafthippie/boergers/compare/v1.0.0...v1.1.0) (2024-01-24)
+
+
+### Features
+
+* add material elements and simply light ([b2d0f28](https://github.com/crafthippie/boergers/commit/b2d0f28d1fd75e20f737a59f2f79346f5e255eba))
+
+
+### Bugfixes
+
+* properly handle files, exclude changelog ([6277c45](https://github.com/crafthippie/boergers/commit/6277c451c581f98c70cf0109b770beb1d8ea11ff))
+
 ## 1.0.0 (2024-01-18)
 
 
