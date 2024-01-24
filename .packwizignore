@@ -9,6 +9,7 @@ dist/
 packwiz.json
 Makefile
 README.md
+CHANGELOG.md
 LICENSE
 
 .dockerignore

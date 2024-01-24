@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "CHANGELOG.md"
-hash = "ebff0ffd54213eb797a38b3e2a6c8382f035ed8e36db37eb84d4987788b8282c"
-
-[[files]]
 file = "config/chunkloaders-common.toml"
 hash = "8922b65d3c98bd37d3b0f52c59d3129d85bf505ec69cf02085defba2be1b0d21"
 
