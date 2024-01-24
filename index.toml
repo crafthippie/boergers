@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "CHANGELOG.md"
+hash = "ebff0ffd54213eb797a38b3e2a6c8382f035ed8e36db37eb84d4987788b8282c"
+
+[[files]]
 file = "config/chunkloaders-common.toml"
 hash = "8922b65d3c98bd37d3b0f52c59d3129d85bf505ec69cf02085defba2be1b0d21"
 
@@ -129,6 +133,16 @@ hash = "527b2b34948b84fc1c4529b11f9c2dd0775c3c00d1dcb821fbefbf45f6e6f081"
 metafile = true
 
 [[files]]
+file = "mods/material-elements-panels-plates-slabs.pw.toml"
+hash = "eb01b338f1044477ff8c9417173501fc04f48b84e54f4d6d885c5449ab4b43b4"
+metafile = true
+
+[[files]]
+file = "mods/material-elements.pw.toml"
+hash = "e678439371264064afc64eea68023b0e71aee4957cb6c31289f46141f9e016fa"
+metafile = true
+
+[[files]]
 file = "mods/mekanism-additions.pw.toml"
 hash = "db0cb90566275af969156c109a7c706dfeae5976e1f7083b47bfca1fcd3fb011"
 metafile = true
@@ -181,6 +195,11 @@ metafile = true
 [[files]]
 file = "mods/simple-backups.pw.toml"
 hash = "a16d8885624754ca66ef873698f778c494bbb6c32a84d839189131ba9708f5e4"
+metafile = true
+
+[[files]]
+file = "mods/simply-light.pw.toml"
+hash = "762eced5d260cdbc94f0acc033efd8fe70fdfe5a28bd8d180e0b052de509893f"
 metafile = true
 
 [[files]]

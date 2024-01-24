@@ -1,0 +1,13 @@
+name = "Material Elements: Panels, Plates and Slabs"
+filename = "material_elements_panels_plates_slabs_1.20.1-7.1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3a4531fc518ce5a34e517b86bab2fdce7ba464ab"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4660025
+project-id = 775901
