@@ -13,5 +13,6 @@ RUN apt-get update && \
 
 ENV MINECRAFT_LEVEL_TYPE DEFAULT
 
+COPY ./overlay/ /
 COPY ./mods /usr/share/minecraft/mods
 COPY ./config /usr/share/minecraft/config
