@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.1](https://github.com/crafthippie/boergers/compare/v1.1.0...v1.1.1) (2024-01-28)
+
+
+### Bugfixes
+
+* add missing patchouli mod ([a2d1126](https://github.com/crafthippie/boergers/commit/a2d1126210c66139e424f1ecd5f8a7ecf1a2dbdc))
+
 ## [1.1.0](https://github.com/crafthippie/boergers/compare/v1.0.0...v1.1.0) (2024-01-24)
 
 
