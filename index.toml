@@ -169,6 +169,11 @@ hash = "eba44edf5b7c620b8f115682ac8652d245593a45b2b97860a5f44a45c0066efa"
 metafile = true
 
 [[files]]
+file = "mods/patchouli.pw.toml"
+hash = "4d0b66ba4cb3c2965bf961d4bb991babb6a60f8a20709d1e295ed7fc8b6d8929"
+metafile = true
+
+[[files]]
 file = "mods/refined-storage-addons.pw.toml"
 hash = "3e32f49f3c57643bde66e53f023e9f83541d0a7e36a131ca06355324351cb041"
 metafile = true
