@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.2](https://github.com/crafthippie/boergers/compare/v1.1.1...v1.1.2) (2024-01-28)
+
+
+### Bugfixes
+
+* correctly link backups and dynmap ([991801b](https://github.com/crafthippie/boergers/commit/991801be832e1e634c3dccac9e73a28ad750d395))
+
 ## [1.1.1](https://github.com/crafthippie/boergers/compare/v1.1.0...v1.1.1) (2024-01-28)
 
 
