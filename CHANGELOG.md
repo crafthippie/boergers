@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.0](https://github.com/crafthippie/boergers/compare/v1.1.2...v1.2.0) (2024-02-14)
+
+
+### Features
+
+* add rftools autocrafting ([983e1cc](https://github.com/crafthippie/boergers/commit/983e1cc52ae0ca8b361cd6f29031f4ec38a3671a))
+
 ## [1.1.2](https://github.com/crafthippie/boergers/compare/v1.1.1...v1.1.2) (2024-01-28)
 
 
