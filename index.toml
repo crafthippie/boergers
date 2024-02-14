@@ -139,6 +139,11 @@ hash = "e678439371264064afc64eea68023b0e71aee4957cb6c31289f46141f9e016fa"
 metafile = true
 
 [[files]]
+file = "mods/mcjtylib.pw.toml"
+hash = "1eb10738bc8c473a5212a86918941548424a4b10ee563d6b2cbe95bad6107aa3"
+metafile = true
+
+[[files]]
 file = "mods/mekanism-additions.pw.toml"
 hash = "db0cb90566275af969156c109a7c706dfeae5976e1f7083b47bfca1fcd3fb011"
 metafile = true
@@ -181,6 +186,16 @@ metafile = true
 [[files]]
 file = "mods/refined-storage.pw.toml"
 hash = "9a8bc01ac2c21bad372e5b7db21e6d6207c0e1f1d60d1481157a2131ad653a26"
+metafile = true
+
+[[files]]
+file = "mods/rftools-base.pw.toml"
+hash = "44e35060d764d847704deb2b1301c169b798c7c19eef49997516a48acc3d7fd2"
+metafile = true
+
+[[files]]
+file = "mods/rftools-utility.pw.toml"
+hash = "98b6a4de348910cc31bd3a782ab9c38abadef6bca7ec32bd047059b3311ad796"
 metafile = true
 
 [[files]]
