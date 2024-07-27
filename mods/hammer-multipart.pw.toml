@@ -1,0 +1,13 @@
+name = "HammerMultipart"
+filename = "HammerMultipart-1.20.1-20.1.19.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/9g6WlH2N/versions/eebl9MiU/HammerMultipart-1.20.1-20.1.19.jar"
+hash-format = "sha1"
+hash = "b21e371ca4472aff1f4f27c4e4a2bafa96267f72"
+
+[update]
+[update.modrinth]
+mod-id = "9g6WlH2N"
+version = "eebl9MiU"

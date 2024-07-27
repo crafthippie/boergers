@@ -33,9 +33,8 @@ MINECRAFT_BACKUPS_DIR = ${MINECRAFT_DATA_DIR}/backups
 
 ## Inherited environment variables
 
--   [webhippie/minecraft-forge](https://github.com/dockhippie/minecraft-forge#available-environment-variables)
 -   [webhippie/minecraft-vanilla](https://github.com/dockhippie/minecraft-vanilla#available-environment-variables)
--   [webhippie/adoptopenjdk](https://github.com/dockhippie/adoptopenjdk#available-environment-variables)
+-   [webhippie/temurin](https://github.com/dockhippie/adoptopenjdk#available-environment-variables)
 -   [webhippie/ubuntu](https://github.com/dockhippie/ubuntu#available-environment-variables)
 
 ## Contributing

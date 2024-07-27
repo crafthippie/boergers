@@ -1,0 +1,13 @@
+name = "Infinite source of water"
+filename = "water_sources_1.20.1_1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/W3Hx4qKO/versions/5JSUVD3L/water_sources_1.20.1_1.0.0.jar"
+hash-format = "sha1"
+hash = "242a707b11b94653a406743ad6e3d4d863997495"
+
+[update]
+[update.modrinth]
+mod-id = "W3Hx4qKO"
+version = "5JSUVD3L"

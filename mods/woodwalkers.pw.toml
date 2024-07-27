@@ -1,0 +1,13 @@
+name = "woodwalkers"
+filename = "walkers-5-forge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Sr1HeD8z/versions/rdan6qBa/walkers-5-forge.jar"
+hash-format = "sha1"
+hash = "7a6f04e21e8fc050322a7887d328fa5c9fd766cc"
+
+[update]
+[update.modrinth]
+mod-id = "Sr1HeD8z"
+version = "rdan6qBa"
