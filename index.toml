@@ -54,6 +54,11 @@ hash = "30f0c1dc08936db9002056ff41197e0fd9768e47c5b08d277bd5e547464c5118"
 metafile = true
 
 [[files]]
+file = "mods/cofh-core.pw.toml"
+hash = "1ba38e1558b064ee70588d7b61f7fe208b233af999b13c0cf03a11b628d05cb0"
+metafile = true
+
+[[files]]
 file = "mods/collective.pw.toml"
 hash = "520c644143412287925e7fefef2781e876df86eb874ba5617b6f9beb662ac80c"
 metafile = true
@@ -91,6 +96,11 @@ metafile = true
 [[files]]
 file = "mods/enderio.pw.toml"
 hash = "29a707cbf84e8664b243d07979bc0ae12e255374b06b2185d7e3bf1868851fb8"
+metafile = true
+
+[[files]]
+file = "mods/flib.pw.toml"
+hash = "e9e6344f960f87383b10de4039d1074c4c43831e8ca5d09c5ef7dc6bc020ea0b"
 metafile = true
 
 [[files]]

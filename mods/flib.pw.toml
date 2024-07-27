@@ -1,0 +1,13 @@
+name = "FLIB"
+filename = "flib-1.20-0.0.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/FAUSd09K/versions/AyDfPGqL/flib-1.20-0.0.5.jar"
+hash-format = "sha1"
+hash = "561b04644df2c263ee0829c171453dabaabe4261"
+
+[update]
+[update.modrinth]
+mod-id = "FAUSd09K"
+version = "AyDfPGqL"
