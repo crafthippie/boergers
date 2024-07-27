@@ -1,13 +1,13 @@
 name = "Woodwalkers"
-filename = "walkers-1.9.1-forge.jar"
+filename = "walkers-5-forge.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "b780b96f424a1ab5125022482cee68a7a544afcb"
+hash = "7a6f04e21e8fc050322a7887d328fa5c9fd766cc"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4775180
+file-id = 5537487
 project-id = 868922
