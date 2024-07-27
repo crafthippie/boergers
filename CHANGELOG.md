@@ -1,5 +1,22 @@
 # Changelog
 
+## [2.0.0](https://github.com/crafthippie/boergers/compare/v1.2.0...v2.0.0) (2024-07-27)
+
+
+### ⚠ BREAKING CHANGES
+
+* restructure all available mods
+
+### Features
+
+* restructure all available mods ([a249775](https://github.com/crafthippie/boergers/commit/a2497751782ae6f6c270790df7cf670c7173fa34))
+
+
+### Bugfixes
+
+* add missing dependencies ([0918b89](https://github.com/crafthippie/boergers/commit/0918b89c28cca1926ed2998b6674ec039ba43e15))
+* upgrade flib to a compatible version ([d6c623e](https://github.com/crafthippie/boergers/commit/d6c623e9aba83839be285d4a7a52b7376252239a))
+
 ## [1.2.0](https://github.com/crafthippie/boergers/compare/v1.1.2...v1.2.0) (2024-02-14)
 
 
