@@ -24,6 +24,11 @@ hash = "c7ef8f8629620ae3d9d2da71aaf440624c40157a80c0eda4298c0aa60b7c76c0"
 metafile = true
 
 [[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "8a27a482bf7dbf9b8a96fe9a3e8bf8e08ca1d376c6cf13bccf49f0d5191d56fa"
+metafile = true
+
+[[files]]
 file = "mods/balm.pw.toml"
 hash = "00a36c775ddcdbe1be447315b337cba5960778d9c0a13b40d22e012f6f069446"
 metafile = true
@@ -65,7 +70,7 @@ metafile = true
 
 [[files]]
 file = "mods/crafted-core.pw.toml"
-hash = "3a88b5f0ba47ade60e0934deb27e96fa4c7d6c6e44bbb7cb8ac33accbc68c63c"
+hash = "896b619a124630ff085989a9bcbb5f692fbf4eb8f9ab5fc2124588cecccbad29"
 metafile = true
 
 [[files]]
@@ -265,7 +270,7 @@ metafile = true
 
 [[files]]
 file = "mods/remorphed.pw.toml"
-hash = "71ae0d122f30659cc6dda81bbf36492e4982f4733c275a9e79f370e8611abe3d"
+hash = "7ca25d393557ac9fe458fd8f0bc6e54a8c2264db9421e714c7992fdeca5d3087"
 metafile = true
 
 [[files]]
@@ -365,5 +370,5 @@ metafile = true
 
 [[files]]
 file = "mods/woodwalkers.pw.toml"
-hash = "d874f7fdf137614672eb850d87ffc468eec99d691e659f0e81daeac9eb9c6443"
+hash = "27356380d5e87840bbe1233d23720f6694835d2744a108c73f3bae4272236ccf"
 metafile = true
