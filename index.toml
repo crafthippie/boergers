@@ -100,7 +100,7 @@ metafile = true
 
 [[files]]
 file = "mods/flib.pw.toml"
-hash = "e9e6344f960f87383b10de4039d1074c4c43831e8ca5d09c5ef7dc6bc020ea0b"
+hash = "4a5b4a1d085ef0ad0d77e6c211e793f2d5cbe34e8ead3f5e7d2d089ceca207a0"
 metafile = true
 
 [[files]]

@@ -1,13 +1,13 @@
 name = "FLIB"
-filename = "flib-1.20-0.0.5.jar"
+filename = "flib-1.20.1-0.0.14.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/FAUSd09K/versions/AyDfPGqL/flib-1.20-0.0.5.jar"
 hash-format = "sha1"
-hash = "561b04644df2c263ee0829c171453dabaabe4261"
+hash = "1080d98fe7c11b50f43d1858fb64ef7ca0c9cb74"
+mode = "metadata:curseforge"
 
 [update]
-[update.modrinth]
-mod-id = "FAUSd09K"
-version = "AyDfPGqL"
+[update.curseforge]
+file-id = 5495793
+project-id = 661261
