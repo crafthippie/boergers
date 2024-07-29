@@ -1,5 +1,20 @@
 # Changelog
 
+## [2.1.0](https://github.com/crafthippie/boergers/compare/v2.0.0...v2.1.0) (2024-07-29)
+
+
+### Features
+
+* **deps:** update ghcr.io/dockhippie/minecraft-vanilla docker tag to v1.20.2 ([dc045f2](https://github.com/crafthippie/boergers/commit/dc045f29e358286ce1672be0cf1daee4e7b18310))
+
+
+### Bugfixes
+
+* downgrade to 1.20.1 again ([0c4de4a](https://github.com/crafthippie/boergers/commit/0c4de4adf5679736bbb87c1b2ce6734f08a34859))
+* jei got to be installed on both sides ([1817aeb](https://github.com/crafthippie/boergers/commit/1817aebe091d9fdb56ebb3e9b8b4d1f6ded53a3b))
+* switch remorphed to curseforge versions ([55d107f](https://github.com/crafthippie/boergers/commit/55d107ff8c4cb783a93553787c620b86fd6f8eb3))
+* use more current forge version of woodwalkers ([83e04b8](https://github.com/crafthippie/boergers/commit/83e04b872c674e6bd265c7f6463a40697a223e2d))
+
 ## [2.0.0](https://github.com/crafthippie/boergers/compare/v1.2.0...v2.0.0) (2024-07-27)
 
 
