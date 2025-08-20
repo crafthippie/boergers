@@ -1,5 +1,12 @@
 # Changelog
 
+## [3.0.1](https://github.com/crafthippie/boergers/compare/v3.0.0...v3.0.1) (2025-08-20)
+
+
+### Bugfixes
+
+* resolve client deployment ([23a78e5](https://github.com/crafthippie/boergers/commit/23a78e58561fa27f76e14cb70f11572380b483c6))
+
 ## [3.0.0](https://github.com/crafthippie/boergers/compare/v2.1.0...v3.0.0) (2025-08-20)
 
 
