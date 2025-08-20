@@ -1,5 +1,16 @@
 # Changelog
 
+## [3.0.0](https://github.com/crafthippie/boergers/compare/v2.1.0...v3.0.0) (2025-08-20)
+
+
+### ⚠ BREAKING CHANGES
+
+* restructure build process
+
+### Features
+
+* restructure build process ([721bd09](https://github.com/crafthippie/boergers/commit/721bd09050ca5188c9da1f7f3f1781d6480ba208))
+
 ## [2.1.0](https://github.com/crafthippie/boergers/compare/v2.0.0...v2.1.0) (2024-07-29)
 
 
