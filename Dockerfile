@@ -1,12 +1,12 @@
-FROM ghcr.io/dockhippie/minecraft-vanilla:1.20.1-amd64 AS build
+FROM ghcr.io/dockhippie/minecraft-vanilla:1.20.1
 
 EXPOSE 25565 25575 8123
 
-ENV FORGE_VERSION 47.1.106
-ENV FORGE_URL https://maven.neoforged.net/releases/net/neoforged/forge/${MINECRAFT_VERSION}-${FORGE_VERSION}/forge-${MINECRAFT_VERSION}-${FORGE_VERSION}-installer.jar
+ENV FORGE_VERSION=47.1.106
+ENV FORGE_URL=https://maven.neoforged.net/releases/net/neoforged/forge/${MINECRAFT_VERSION}-${FORGE_VERSION}/forge-${MINECRAFT_VERSION}-${FORGE_VERSION}-installer.jar
 
-ENV DYNMAP_JAR Dynmap-3.7-beta-4-forge-1.20.jar
-ENV DYNMAP_URL https://mediafilez.forgecdn.net/files/4979/24/${DYNMAP_JAR}
+ENV DYNMAP_JAR=Dynmap-3.7-beta-4-forge-1.20.jar
+ENV DYNMAP_URL=https://mediafilez.forgecdn.net/files/4979/24/${DYNMAP_JAR}
 
 RUN apt-get update && \
     apt-get upgrade -y && \
@@ -19,7 +19,7 @@ RUN apt-get update && \
     rm -f forge-${MINECRAFT_VERSION}-${FORGE_VERSION}-installer.jar forge-${MINECRAFT_VERSION}-${FORGE_VERSION}-installer.jar.log run.bat run.sh && \
     curl --create-dirs -sLo /usr/share/minecraft/mods/${DYNMAP_JAR} ${DYNMAP_URL}
 
-ENV MINECRAFT_LEVEL_TYPE DEFAULT
+ENV MINECRAFT_LEVEL_TYPE=DEFAULT
 
 COPY ./overlay/ /
 COPY ./mods /usr/share/minecraft/mods

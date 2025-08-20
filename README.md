@@ -4,9 +4,9 @@
 
 This repository provides the whole configuration for the `Boergers` Minecraft
 mod pack. It's used to automatically build and publish the required files for
-[Modrinth][modrinth], and to publish a Docker image for the server on
-[DockerHub][dockerhub]. Some information and documentation about this pack can
-be found on https://crafthippie.github.io/boergers.
+[Modrinth][modrinth] and the [Curseforge Client][curse], and to publish a Docker
+image for the server on [DockerHub][dockerhub]. Some information and
+documentation about this pack can be found on https://crafthippie.github.io/boergers.
 
 ## Versions
 
@@ -56,4 +56,5 @@ Copyright (c) 2024 Thomas Boerger <http://www.webhippie.de>
 ```
 
 [modrinth]: https://modrinth.com/
+[curse]: https://download.curseforge.com/
 [dockerhub]: https://hub.docker.com/r/crafthippie/boergers
