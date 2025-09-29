@@ -1,5 +1,12 @@
 # Changelog
 
+## [3.0.2](https://github.com/crafthippie/boergers/compare/v3.0.1...v3.0.2) (2025-09-29)
+
+
+### Bugfixes
+
+* **deps:** pin dependencies ([#11](https://github.com/crafthippie/boergers/issues/11)) ([024e5e3](https://github.com/crafthippie/boergers/commit/024e5e3ec6b314f782143c8e5c3d405183716c14))
+
 ## [3.0.1](https://github.com/crafthippie/boergers/compare/v3.0.0...v3.0.1) (2025-08-20)
 
 
