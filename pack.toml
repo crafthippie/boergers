@@ -1,6 +1,6 @@
 name = "boergers"
 author = "Thomas Boerger"
-version = "3.0.14"
+version = "3.0.15"
 pack-format = "packwiz:1.1.0"
 
 [index]
