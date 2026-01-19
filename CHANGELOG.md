@@ -1,5 +1,16 @@
 # Changelog
 
+## [3.0.17](https://github.com/crafthippie/boergers/compare/v3.0.16...v3.0.17) (2026-01-19)
+
+### Dependencies
+
+* **patch:** pin quay.io/crafthippie/boergers docker tag to 1d863c4 ([#75](https://github.com/crafthippie/boergers/issues/75)) ([06cd22c](https://github.com/crafthippie/boergers/commit/06cd22c4b0ea37beb01f3c5253e692ccf71e7e6f))
+* **patch:** update ghcr.io/dockhippie/minecraft-vanilla:1.20.1 docker digest to 162f79f ([#77](https://github.com/crafthippie/boergers/issues/77)) ([d9a6ab5](https://github.com/crafthippie/boergers/commit/d9a6ab54d8d7f03b344258242659b321d2984d09))
+
+### Miscellaneous
+
+* **flake:** updated lockfile [skip ci] ([b2cb256](https://github.com/crafthippie/boergers/commit/b2cb2569e3ef021bf3e413e10e453bbfad4cccde))
+
 ## [3.0.16](https://github.com/crafthippie/boergers/compare/v3.0.15...v3.0.16) (2026-01-12)
 
 ### Dependencies
