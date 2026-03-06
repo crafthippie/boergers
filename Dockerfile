@@ -1,4 +1,4 @@
-FROM ghcr.io/dockhippie/minecraft-vanilla:1.20.1@sha256:27011bac2708ffbf99a54a982c19a89610c979f8f28c8ddb628f27f60a3f22d9
+FROM ghcr.io/dockhippie/minecraft-vanilla:1.20.1@sha256:320364ad37f9f356aaf79e0769caa6e023cda7ea080da3287b160fb89f02d765
 
 EXPOSE 25565 25575 8123
 
