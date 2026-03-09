@@ -1,5 +1,21 @@
 # Changelog
 
+## [3.0.24](https://github.com/crafthippie/boergers/compare/v3.0.23...v3.0.24) (2026-03-09)
+
+### Dependencies
+
+* **patch:** update docker digests ([#89](https://github.com/crafthippie/boergers/issues/89)) ([3c2f609](https://github.com/crafthippie/boergers/commit/3c2f609d5a1b1cbeeb92fac8f183cb1fc7b556ce))
+* **patch:** update ghcr.io/dockhippie/minecraft-vanilla:1.20.1 docker digest to 19b6c07 ([#96](https://github.com/crafthippie/boergers/issues/96)) ([83f5eb3](https://github.com/crafthippie/boergers/commit/83f5eb3b7c362e5ca7f31c3146480b9eaef6715b))
+* **patch:** update ghcr.io/dockhippie/minecraft-vanilla:1.20.1 docker digest to 27011ba ([#99](https://github.com/crafthippie/boergers/issues/99)) ([05e2c3d](https://github.com/crafthippie/boergers/commit/05e2c3d1e2b8583c65ceff3132732e18442d00bb))
+* **patch:** update ghcr.io/dockhippie/minecraft-vanilla:1.20.1 docker digest to 320364a ([#100](https://github.com/crafthippie/boergers/issues/100)) ([664cf69](https://github.com/crafthippie/boergers/commit/664cf697a6d93584e77cc10260b516e0a7e00a6a))
+* **patch:** update ghcr.io/dockhippie/minecraft-vanilla:1.20.1 docker digest to 3225b2e ([#95](https://github.com/crafthippie/boergers/issues/95)) ([84cd923](https://github.com/crafthippie/boergers/commit/84cd923a3b45371ae38156165251cf05b26afb72))
+* **patch:** update ghcr.io/dockhippie/minecraft-vanilla:1.20.1 docker digest to b00252d ([#93](https://github.com/crafthippie/boergers/issues/93)) ([cd6b2d2](https://github.com/crafthippie/boergers/commit/cd6b2d23f8c1ebd18ad11755b161a915fec031c2))
+* **patch:** update ghcr.io/dockhippie/minecraft-vanilla:1.20.1 docker digest to dd899bd ([#92](https://github.com/crafthippie/boergers/issues/92)) ([7c45fd0](https://github.com/crafthippie/boergers/commit/7c45fd0946bfe9ee5a0413a99ad3ba92847d5ba2))
+
+### Miscellaneous
+
+* **flake:** updated lockfile [skip ci] ([107a2ed](https://github.com/crafthippie/boergers/commit/107a2ed975f7e0ac88ea828c0410b9401e21b164))
+
 ## [3.0.23](https://github.com/crafthippie/boergers/compare/v3.0.22...v3.0.23) (2026-03-02)
 
 ### Dependencies
