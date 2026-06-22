@@ -1,5 +1,16 @@
 # Changelog
 
+## [3.0.39](https://github.com/crafthippie/boergers/compare/v3.0.38...v3.0.39) (2026-06-22)
+
+### Dependencies
+
+* **patch:** pin dependencies ([#126](https://github.com/crafthippie/boergers/issues/126)) ([24e876f](https://github.com/crafthippie/boergers/commit/24e876fdc27c31eb5503da6702767bdc06406e84))
+* **patch:** update docker digests ([#128](https://github.com/crafthippie/boergers/issues/128)) ([1467ce7](https://github.com/crafthippie/boergers/commit/1467ce75b90c831a2132c289c41e6b39de4bef0a))
+
+### Miscellaneous
+
+* **flake:** updated lockfile [skip ci] ([18a6318](https://github.com/crafthippie/boergers/commit/18a631836c7ca6b76db5150e67cd44934e09f24f))
+
 ## [3.0.38](https://github.com/crafthippie/boergers/compare/v3.0.37...v3.0.38) (2026-06-15)
 
 ### Dependencies
