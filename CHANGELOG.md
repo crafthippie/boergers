@@ -1,5 +1,7 @@
 # Changelog
 
+## [3.0.40](https://github.com/crafthippie/boergers/compare/v3.0.39...v3.0.40) (2026-06-29)
+
 ## [3.0.39](https://github.com/crafthippie/boergers/compare/v3.0.38...v3.0.39) (2026-06-22)
 
 ### Dependencies
