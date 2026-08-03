@@ -1,5 +1,21 @@
 # Changelog
 
+## [3.1.0](https://github.com/crafthippie/boergers/compare/v3.0.44...v3.1.0) (2026-08-03)
+
+### Features
+
+* restructure repo and build processes ([8bbb0c1](https://github.com/crafthippie/boergers/commit/8bbb0c1f47cee2fe3b3a98609c2344f2a885eb6d))
+
+### Bugfixes
+
+* make does not exist anymore ([efeb6cd](https://github.com/crafthippie/boergers/commit/efeb6cd2e00e278f7d436eefffe8259498dc3d7d))
+* resolve build script and ignore dockerfile ([295e628](https://github.com/crafthippie/boergers/commit/295e628053134fcffb1dd525d366bc95956af58e))
+
+### Dependencies
+
+* **minor:** update dependency task to v3.52.0 ([#136](https://github.com/crafthippie/boergers/issues/136)) ([1385f4b](https://github.com/crafthippie/boergers/commit/1385f4b09f693676530770bf1f0c66b2af0cf0bb))
+* **patch:** pin quay.io/crafthippie/boergers docker tag to a35463e ([#135](https://github.com/crafthippie/boergers/issues/135)) ([b576c67](https://github.com/crafthippie/boergers/commit/b576c67298a815f83135733b649ea027340d4f2b))
+
 ## [3.0.44](https://github.com/crafthippie/boergers/compare/v3.0.43...v3.0.44) (2026-07-27)
 
 ## [3.0.43](https://github.com/crafthippie/boergers/compare/v3.0.42...v3.0.43) (2026-07-20)
