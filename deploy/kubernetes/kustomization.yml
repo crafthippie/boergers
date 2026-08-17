@@ -26,6 +26,6 @@ secretGenerator:
 images:
   - name: minecraft-server
     newName: quay.io/crafthippie/boergers
-    newTag: 3.1.1@sha256:5024e433d7c9e27ecc7bd052c4de3eda957a8c33187e5d70ac95f021bb20e124
+    newTag: 3.1.2
 
 ...

@@ -1,5 +1,12 @@
 # Changelog
 
+## [3.1.2](https://github.com/crafthippie/boergers/compare/v3.1.1...v3.1.2) (2026-08-17)
+
+### Dependencies
+
+* **patch:** pin quay.io/crafthippie/boergers docker tag to 5024e43 ([#139](https://github.com/crafthippie/boergers/issues/139)) ([94da936](https://github.com/crafthippie/boergers/commit/94da93644a7c8a495cb85ef8b9d9f19427850e42))
+* **patch:** update dependency pre-commit to v4.6.2 ([#140](https://github.com/crafthippie/boergers/issues/140)) ([e9c4d82](https://github.com/crafthippie/boergers/commit/e9c4d8254cd1a691a30c3e81d3c169dfd7b9eae6))
+
 ## [3.1.1](https://github.com/crafthippie/boergers/compare/v3.1.0...v3.1.1) (2026-08-10)
 
 ### Dependencies
