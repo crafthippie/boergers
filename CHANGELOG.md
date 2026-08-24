@@ -1,5 +1,13 @@
 # Changelog
 
+## [3.2.0](https://github.com/crafthippie/boergers/compare/v3.1.2...v3.2.0) (2026-08-24)
+
+### Dependencies
+
+* **minor:** update dependency hugo-extended to v0.165.0 ([#141](https://github.com/crafthippie/boergers/issues/141)) ([24030fe](https://github.com/crafthippie/boergers/commit/24030feb5e9bffb2a776dd225e3604615088d942))
+* **minor:** update dependency task to v3.53.1 ([#143](https://github.com/crafthippie/boergers/issues/143)) ([9ac3a7f](https://github.com/crafthippie/boergers/commit/9ac3a7f3096ebd61d11f4daccc6fc098ab6f5f82))
+* **patch:** pin quay.io/crafthippie/boergers docker tag to c73a5a9 ([#142](https://github.com/crafthippie/boergers/issues/142)) ([eabd2e4](https://github.com/crafthippie/boergers/commit/eabd2e42d00455c4ebd918e73547f4c802962bbd))
+
 ## [3.1.2](https://github.com/crafthippie/boergers/compare/v3.1.1...v3.1.2) (2026-08-17)
 
 ### Dependencies
