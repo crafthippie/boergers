@@ -1,5 +1,13 @@
 # Changelog
 
+## [3.2.2](https://github.com/crafthippie/boergers/compare/v3.2.1...v3.2.2) (2026-09-07)
+
+### Dependencies
+
+* **patch:** pin quay.io/crafthippie/boergers docker tag to 6f52cd1 ([#145](https://github.com/crafthippie/boergers/issues/145)) ([32a98c0](https://github.com/crafthippie/boergers/commit/32a98c0db9d86c8465baddfef8b7c86d954ceeec))
+* **patch:** update module go:github.com/packwiz/packwiz to v0.0.0-20260902165313-9066bf845f7e ([#146](https://github.com/crafthippie/boergers/issues/146)) ([d24d8a5](https://github.com/crafthippie/boergers/commit/d24d8a5de57104efc11db507bd840321dbf1606a))
+* **patch:** update module go:github.com/packwiz/packwiz to v0.0.0-20260906154125-ef87d964f8cb ([#147](https://github.com/crafthippie/boergers/issues/147)) ([ce95533](https://github.com/crafthippie/boergers/commit/ce955337174ad2d0e95aa9d4b341219cefc0de21))
+
 ## [3.2.1](https://github.com/crafthippie/boergers/compare/v3.2.0...v3.2.1) (2026-08-31)
 
 ### Dependencies
