@@ -1,5 +1,12 @@
 # Changelog
 
+## [3.3.2](https://github.com/crafthippie/boergers/compare/v3.3.1...v3.3.2) (2026-09-28)
+
+### Dependencies
+
+* **mise:** update dependency prek to v0.5.4 ([#152](https://github.com/crafthippie/boergers/issues/152)) ([b1e8ef2](https://github.com/crafthippie/boergers/commit/b1e8ef24fd5315679e612fe692f1fe1f6fc8be06))
+* **patch:** pin quay.io/crafthippie/boergers docker tag to f3c20e6 ([#151](https://github.com/crafthippie/boergers/issues/151)) ([f62efe9](https://github.com/crafthippie/boergers/commit/f62efe942f29a32a61366b69ae7bd9f050cdbe26))
+
 ## [3.3.1](https://github.com/crafthippie/boergers/compare/v3.3.0...v3.3.1) (2026-09-21)
 
 ### Dependencies
