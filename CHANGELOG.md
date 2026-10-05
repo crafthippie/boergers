@@ -1,5 +1,14 @@
 # Changelog
 
+## [3.3.3](https://github.com/crafthippie/boergers/compare/v3.3.2...v3.3.3) (2026-10-05)
+
+### Dependencies
+
+* **mise:** update dependency hugo-extended to v0.167.0 ([#154](https://github.com/crafthippie/boergers/issues/154)) ([5fc05db](https://github.com/crafthippie/boergers/commit/5fc05dba00a5c86ad4513ef249fc07156bc4b05e))
+* **mise:** update dependency prek to v0.5.5 ([#157](https://github.com/crafthippie/boergers/issues/157)) ([8f7c9a3](https://github.com/crafthippie/boergers/commit/8f7c9a3fd3c62646f712db6dee5ffe9d094cb9ae))
+* **mise:** update dependency task to v3.54.0 ([#156](https://github.com/crafthippie/boergers/issues/156)) ([5c1db59](https://github.com/crafthippie/boergers/commit/5c1db5982d0d5e43e967a3d576fde73d48216e60))
+* **patch:** pin quay.io/crafthippie/boergers docker tag to 470bd3c ([#153](https://github.com/crafthippie/boergers/issues/153)) ([48e5381](https://github.com/crafthippie/boergers/commit/48e5381b44c69032c1709e81e6edf1011e026ff7))
+
 ## [3.3.2](https://github.com/crafthippie/boergers/compare/v3.3.1...v3.3.2) (2026-09-28)
 
 ### Dependencies
