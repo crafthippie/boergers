@@ -1,5 +1,16 @@
 # Changelog
 
+## [3.3.5](https://github.com/crafthippie/boergers/compare/v3.3.4...v3.3.5) (2026-10-19)
+
+### Dependencies
+
+* **mise:** update dependency hugo-extended to v0.168.0 ([#162](https://github.com/crafthippie/boergers/issues/162)) ([70e6f20](https://github.com/crafthippie/boergers/commit/70e6f20324e6e74c5a95ae4b180441ed79304270))
+* **mise:** update dependency prek to v0.5.6 ([#166](https://github.com/crafthippie/boergers/issues/166)) ([6ea65ba](https://github.com/crafthippie/boergers/commit/6ea65ba189684c13bd3c9a5afd6cdce60ef9405d))
+* **mise:** update module go:github.com/packwiz/packwiz to v0.0.0-20261014010756-170b22d78595 ([#163](https://github.com/crafthippie/boergers/issues/163)) ([63e3e72](https://github.com/crafthippie/boergers/commit/63e3e72eed7294ab9567812d711a0577c612aad5))
+* **patch:** pin quay.io/crafthippie/boergers docker tag to 33017d1 ([#161](https://github.com/crafthippie/boergers/issues/161)) ([724f85e](https://github.com/crafthippie/boergers/commit/724f85e8f6d138accbbb835505bbeed654678124))
+* **patch:** update ghcr.io/dockhippie/minecraft-vanilla:1.20.1 docker digest to 635b4e2 ([#165](https://github.com/crafthippie/boergers/issues/165)) ([9cf122f](https://github.com/crafthippie/boergers/commit/9cf122f257cec1c733187ab9b8adbef13311e75e))
+* **patch:** update ghcr.io/dockhippie/minecraft-vanilla:1.20.1 docker digest to ab2925d ([#164](https://github.com/crafthippie/boergers/issues/164)) ([b21b94b](https://github.com/crafthippie/boergers/commit/b21b94b788dac4c71f26eb20f0bafdd9675f06f5))
+
 ## [3.3.4](https://github.com/crafthippie/boergers/compare/v3.3.3...v3.3.4) (2026-10-12)
 
 ### Dependencies
