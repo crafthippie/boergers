@@ -1,5 +1,14 @@
 # Changelog
 
+## [3.3.6](https://github.com/crafthippie/boergers/compare/v3.3.5...v3.3.6) (2026-10-26)
+
+### Dependencies
+
+* **mise:** update dependency prek to v0.5.7 ([#169](https://github.com/crafthippie/boergers/issues/169)) ([2bee829](https://github.com/crafthippie/boergers/commit/2bee829467d542e5b659b6e528e8751fc58ccbf7))
+* **patch:** pin quay.io/crafthippie/boergers docker tag to e19afa1 ([#168](https://github.com/crafthippie/boergers/issues/168)) ([2daf327](https://github.com/crafthippie/boergers/commit/2daf327f2ebabfd7e14505ffd616197fbaa7efe8))
+* **patch:** update ghcr.io/dockhippie/minecraft-vanilla:1.20.1 docker digest to 36511e6 ([#167](https://github.com/crafthippie/boergers/issues/167)) ([edde058](https://github.com/crafthippie/boergers/commit/edde058ac92ec168f7a2a7b8d506e0d8713b7bde))
+* **patch:** update ghcr.io/dockhippie/minecraft-vanilla:1.20.1 docker digest to f0c9964 ([#170](https://github.com/crafthippie/boergers/issues/170)) ([2d7488e](https://github.com/crafthippie/boergers/commit/2d7488e402997529513dcd761cffb6293f1093eb))
+
 ## [3.3.5](https://github.com/crafthippie/boergers/compare/v3.3.4...v3.3.5) (2026-10-19)
 
 ### Dependencies
