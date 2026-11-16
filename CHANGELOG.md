@@ -1,5 +1,14 @@
 # Changelog
 
+## [3.3.9](https://github.com/crafthippie/boergers/compare/v3.3.8...v3.3.9) (2026-11-16)
+
+### Dependencies
+
+* **mise:** update dependency hugo-extended to v0.170.0 ([#182](https://github.com/crafthippie/boergers/issues/182)) ([73dd883](https://github.com/crafthippie/boergers/commit/73dd883f237726153268e09626797de01a5c3eb8))
+* **mise:** update dependency prek to v0.5.11 ([#183](https://github.com/crafthippie/boergers/issues/183)) ([ea76231](https://github.com/crafthippie/boergers/commit/ea762312c735eb56ddb217c6787880d452edb963))
+* **patch:** update ghcr.io/dockhippie/minecraft-vanilla:1.20.1 docker digest to 090eada ([#181](https://github.com/crafthippie/boergers/issues/181)) ([e2cf312](https://github.com/crafthippie/boergers/commit/e2cf3129b28bc3e3f15baebf2c1a6519ec7132db))
+* **patch:** update ghcr.io/dockhippie/minecraft-vanilla:1.20.1 docker digest to 688bea6 ([#180](https://github.com/crafthippie/boergers/issues/180)) ([23dfc38](https://github.com/crafthippie/boergers/commit/23dfc38cef4c1722283c75e1581b3a55b20031d8))
+
 ## [3.3.8](https://github.com/crafthippie/boergers/compare/v3.3.7...v3.3.8) (2026-11-09)
 
 ### Dependencies
