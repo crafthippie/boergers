@@ -1,0 +1,34 @@
+---
+# yaml-language-server: $schema=https://www.schemastore.org/hugo.json
+baseURL: https://crafthippie.github.io/boergers/
+locale: en-us
+title: Boergers
+
+disableKinds:
+  - taxonomy
+  - rss
+  - sitemap
+
+security:
+  allowContent:
+    - '! ^text/org$'
+
+blackfriday:
+  angledQuotes: true
+  fractions: false
+  plainIDAnchors: true
+  smartlists: true
+  extensions:
+    - hardLineBreak
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+
+params:
+  author: Thomas Boerger
+  description: Documentation for Minecraft pack Boergers
+  keywords: minecraft, mod, modpack, forge
+
+...
