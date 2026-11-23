@@ -1,5 +1,20 @@
 # Changelog
 
+## [3.4.0](https://github.com/crafthippie/boergers/compare/v3.3.9...v3.4.0) (2026-11-23)
+
+### Features
+
+* switch to plain hugo and resolve deprecations ([075b1ef](https://github.com/crafthippie/boergers/commit/075b1efa7f82e1b87b40ac373d0f3161e0e86565))
+
+### Bugfixes
+
+* replace security allowContent with cascade config ([db3aaba](https://github.com/crafthippie/boergers/commit/db3aaba68ab99b74558792b7ebbba59a6da8fb8d))
+
+### Dependencies
+
+* **mise:** update dependency hugo-extended to v0.170.1 ([#185](https://github.com/crafthippie/boergers/issues/185)) ([9393e2c](https://github.com/crafthippie/boergers/commit/9393e2c51e80546e585036b5f61600d815f8d1cf))
+* **patch:** update docker digests ([#184](https://github.com/crafthippie/boergers/issues/184)) ([907473c](https://github.com/crafthippie/boergers/commit/907473c5d6debbd24a8b3746ea14832a09855112))
+
 ## [3.3.9](https://github.com/crafthippie/boergers/compare/v3.3.8...v3.3.9) (2026-11-16)
 
 ### Dependencies
